@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 DEVELOPED BY: S MANO SUSHMITHA
 
-REG.NO:212223240036
+REG.NO:212224040187
 ## Write a C program that illustrates two processes communicating using shared memory.
 ```
 #include <stdio.h>
